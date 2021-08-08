@@ -16,6 +16,7 @@ Major Tableau concepts used:
 Bins
 Table Calculations
 Parameters
+Maps
 Pie Chart
 Bar Chart
 Tree Map
